@@ -1,0 +1,140 @@
+country,rule_of_law,control_of_corruption,gdp,education,region_code,region
+Albania,-.40174302,-.41830903,.47161293,9.8546467,Europe and Central Asia,3
+United Arab Emirates,.79766947,1.133604,2.3069911,8.877758,Middle East and North Africa,5
+Argentina,-.24561092,-.25594601,.51923651,9.4750652,Latin America and the Caribbean,4
+Armenia,-.1555746,-.5604561,.4168843,10.867902,Europe and Central Asia,3
+Australia,1.6818374,1.7950495,1.3477329,11.770456,Advanced Economies,1
+Austria,1.8124728,1.5260113,1.3384742,9.8855085,Advanced Economies,1
+Burundi,-1.3955919,-1.2838748,.026959624,2.6763494,Sub-Saharan Africa,7
+Belgium,1.3434273,1.4971172,1.404564,10.780526,Advanced Economies,1
+Benin,-.62462538,-.55411166,.075086355,3.3007889,Sub-Saharan Africa,7
+Bangladesh,-.67121655,-.8317309,.1219471,4.9086552,South Asia,6
+Bulgaria,-.040922999,-.16111226,.5536691,11.452109,Europe and Central Asia,3
+Bahrain,.4467034,-.14095958,.96282482,6.786551,Middle East and North Africa,5
+Belize,-.95834428,-.27197993,.24348526,11.585791,Latin America and the Caribbean,4
+Bolivia,-1.2082742,-.65730393,.19185539,7.7722111,Latin America and the Caribbean,4
+Brazil,-.28436524,-.53207302,.39408922,7.6591902,Latin America and the Caribbean,4
+Barbados,.65751946,1.4211093,.29963806,9.3184547,Latin America and the Caribbean,4
+Brunei Darussalam,.64684665,.71263498,1.6376519,8.7666101,East Asia and the Pacific,2
+Botswana,.51935899,.79510087,.52192426,8.8693933,Sub-Saharan Africa,7
+Central African Republic,-1.731486,-1.1732126,.026841426,3.568996,Sub-Saharan Africa,7
+Canada,1.8011968,1.9242579,1.2166398,12.557427,Advanced Economies,1
+Switzerland,1.9278939,1.9890344,1.5859244,13.416742,Advanced Economies,1
+Chile,1.0117365,1.0392905,.71469945,9.7085085,Latin America and the Caribbean,4
+China,-.26295623,-.26993641,.31556746,7.5288792,East Asia and the Pacific,2
+Côte d'Ivoire,-.63022566,-.52532959,.15420245,4.2243242,Sub-Saharan Africa,7
+Cameroon,-1.0316336,-1.1993233,.10914191,5.9568801,Sub-Saharan Africa,7
+"Congo, Rep.",-1.1037608,-1.33061,.15673047,5.6729097,Sub-Saharan Africa,7
+Colombia,-.3600142,-.37002084,.38616982,8.445384,Latin America and the Caribbean,4
+Costa Rica,.45482081,.4666402,.52797616,7.8443322,Latin America and the Caribbean,4
+Cyprus,.88494974,.78272885,1.0623,11.112175,Middle East and North Africa,5
+Czech Republic,1.116695,.56767696,.91528916,13.161693,Europe and Central Asia,3
+Germany,1.6083387,1.8410892,1.3125875,12.689937,Advanced Economies,1
+Denmark,1.8638459,2.1933787,1.3160015,11.527483,Advanced Economies,1
+Dominican Republic,-.41797605,-.7389133,.49315944,7.4597878,Latin America and the Caribbean,4
+Algeria,-.86393833,-.60417515,.65712756,5.9832931,Middle East and North Africa,5
+Ecuador,-.70141739,-.59961838,.29476336,7.4399037,Latin America and the Caribbean,4
+"Egypt, Arab Rep.",-.54253775,-.5521881,.53320062,6.5505743,Middle East and North Africa,5
+Spain,1.0084704,.49176788,1.2206995,10.30247,Advanced Economies,1
+Estonia,1.2818812,1.2424127,.7810508,12.483944,Europe and Central Asia,3
+Finland,2.0270729,2.2158105,1.2546998,10.20797,Advanced Economies,1
+Fiji,-.24565355,.35904762,.28451794,9.5809288,East Asia and the Pacific,2
+France,1.4383175,1.2594825,1.3527018,10.642907,Advanced Economies,1
+Gabon,-.68242997,-.81611407,.64880943,7.5683417,Sub-Saharan Africa,7
+United Kingdom,1.6794695,1.8433434,1.1525708,12.322561,Advanced Economies,1
+Ghana,.12986724,-.22903509,.14143738,6.7622733,Sub-Saharan Africa,7
+"Gambia, The",-.43494555,-.62923926,.12682973,2.8154826,Sub-Saharan Africa,7
+Greece,.083919302,-.1383459,.86664361,10.25596,Advanced Economies,1
+Guatemala,-1.0599961,-.73986679,.23813628,4.3017092,Latin America and the Caribbean,4
+"Hong Kong SAR, China",1.7178434,1.6149285,1.330635,11.015143,East Asia and the Pacific,2
+Honduras,-1.0462719,-.71769822,.13642293,5.4950104,Latin America and the Caribbean,4
+Croatia,.33424833,.1867006,.8993997,11.416116,Europe and Central Asia,3
+Haiti,-1.0881487,-1.2382038,.058546145,4.7392163,Latin America and the Caribbean,4
+Hungary,.52967697,.089291468,.73295581,12.142828,Europe and Central Asia,3
+Indonesia,-.34648168,-.25270873,.31385979,7.256609,East Asia and the Pacific,2
+India,.004769078,-.23980765,.21953095,5.3866425,South Asia,6
+Ireland,1.4279832,1.5485647,2.44578,12.198545,Advanced Economies,1
+"Iran, Islamic Rep.",-.68306047,-.81169271,.81278259,8.1712627,Middle East and North Africa,5
+Iraq,-1.6374482,-1.372133,.9146806,6.3815894,Middle East and North Africa,5
+Iceland,1.6065758,1.8381212,1.0636957,10.588748,Advanced Economies,1
+Israel,1.0213722,.82671154,1.0479639,12.763445,Middle East and North Africa,5
+Italy,.32462475,.18859977,1.2970237,9.5366983,Advanced Economies,1
+Jamaica,-.15652809,-.17250839,.24600337,9.6674862,Latin America and the Caribbean,4
+Jordan,.26132798,.2597678,.54709542,9.2130566,Middle East and North Africa,5
+Japan,1.5661924,1.5224291,1.0610523,11.518649,Advanced Economies,1
+Kazakhstan,-.41143742,-.82098883,.64125437,11.419392,Europe and Central Asia,3
+Kenya,-.41320711,-.95371789,.10803307,6.1936951,Sub-Saharan Africa,7
+Kyrgyz Republic,-.9252606,-1.0540224,.3573921,11.082103,Europe and Central Asia,3
+Cambodia,-1.0561374,-1.2913808,.078345492,4.0951867,East Asia and the Pacific,2
+"Korea, Rep.",1.1634279,.48082983,1,11.893398,East Asia and the Pacific,2
+Kuwait,.10146234,-.33150372,1.202875,6.2610645,Middle East and North Africa,5
+Lao PDR,-.8815068,-.93593121,.17936994,4.5727887,East Asia and the Pacific,2
+Liberia,-.95086229,-.66281682,.03482141,4.0890722,Sub-Saharan Africa,7
+Sri Lanka,.055441722,-.45185545,.50140578,9.7557421,South Asia,6
+Lesotho,-.27484158,-.030946538,.14861813,5.6290636,Sub-Saharan Africa,7
+Lithuania,.99265039,.55372977,.80171001,11.048411,Europe and Central Asia,3
+Luxembourg,1.737713,1.9854969,1.5083048,11.219034,Advanced Economies,1
+Latvia,.93137854,.53582478,.7650463,10.476034,Europe and Central Asia,3
+"Macao SAR, China",.84846795,.64200479,1.9173509,8.0858707,East Asia and the Pacific,2
+Morocco,-.16215426,-.13947742,.31780764,4.2354503,Middle East and North Africa,5
+Moldova,-.41421261,-.79862672,.25026578,10.657005,Europe and Central Asia,3
+Maldives,-.61523205,-.78759253,.41089574,4.3805261,South Asia,6
+Mexico,-.56667227,-.92798698,.571679,8.3269424,Latin America and the Caribbean,4
+Mali,-.77818602,-.64031261,.085616842,1.4999418,Sub-Saharan Africa,7
+Malta,1.1436204,.73965257,.98998809,10.329608,Middle East and North Africa,5
+Myanmar,-.94545496,-.56526279,.13766089,4.0935268,East Asia and the Pacific,2
+Mongolia,-.30304247,-.45170638,.3935526,9.2844238,East Asia and the Pacific,2
+Mozambique,-.9878509,-.83484119,.052254554,1.2409807,Sub-Saharan Africa,7
+Mauritania,-.59929043,-.75131375,.15951414,3.7691143,Sub-Saharan Africa,7
+Mauritius,.68154055,.20116483,.7225005,8.1861773,Sub-Saharan Africa,7
+Malawi,-.36957401,-.65800351,.037586171,4.2948198,Sub-Saharan Africa,7
+Malaysia,.41422355,.025743745,.70282507,9.7497025,East Asia and the Pacific,2
+Namibia,.24124067,.3206743,.49080363,6.219913,Sub-Saharan Africa,7
+Niger,-.68097317,-.66336691,.028926218,1.4522555,Sub-Saharan Africa,7
+Nicaragua,-.64489758,-.87222362,.16453904,5.9956803,Latin America and the Caribbean,4
+Netherlands,1.8300229,1.8672781,1.3173205,11.596623,Advanced Economies,1
+Norway,2.0202792,2.2367768,1.6913483,11.799294,Advanced Economies,1
+Nepal,-.67600924,-.74956834,.06610693,3.3142741,South Asia,6
+New Zealand,1.9228568,2.2411146,.97653246,11.296254,Advanced Economies,1
+Pakistan,-.72389728,-.77828372,.24112888,4.4531817,South Asia,6
+Panama,.038474891,-.53976434,.65120345,9.1455259,Latin America and the Caribbean,4
+Peru,-.50129873,-.49626312,.30448508,8.6841478,Latin America and the Caribbean,4
+Philippines,-.41452152,-.47556987,.28881282,8.1795788,East Asia and the Pacific,2
+Poland,.4725602,.72498477,.90608978,11.420788,Europe and Central Asia,3
+Portugal,1.1321495,.87394315,.73920763,7.1999183,Advanced Economies,1
+Paraguay,-.6510393,-.7252022,.24848844,7.2406554,Latin America and the Caribbean,4
+Qatar,.72341627,.73389083,1.6130487,8.451685,Middle East and North Africa,5
+Romania,.38754094,-.031477556,.85729539,10.813145,Europe and Central Asia,3
+Russian Federation,-.79357266,-.89239126,.67889476,11.725595,Europe and Central Asia,3
+Rwanda,.12862228,.63302964,.054679826,3.4844468,Sub-Saharan Africa,7
+Saudi Arabia,.098960109,.36382324,1.4806452,7.7855353,Middle East and North Africa,5
+Sudan,-1.109521,-1.5319639,.28592017,3.1287496,Sub-Saharan Africa,7
+Senegal,-.14366002,-.089106098,.13488841,2.398963,Sub-Saharan Africa,7
+Singapore,1.822845,2.1335821,1.634693,10.625484,East Asia and the Pacific,2
+Sierra Leone,-.78117669,-.56615651,.062053535,3.0590014,Sub-Saharan Africa,7
+El Salvador,-.8559342,-.50670815,.22409913,7.655354,Latin America and the Caribbean,4
+Serbia,-.19234037,-.37511286,.42167693,10.970866,Europe and Central Asia,3
+Slovak Republic,.57122934,.22376963,.86271268,13.065777,Europe and Central Asia,3
+Slovenia,1.0234654,.81379932,.87206215,12.134577,Europe and Central Asia,3
+Sweden,1.9361565,2.1389346,1.2569903,11.889055,Advanced Economies,1
+Swaziland,-.28363502,-.27137116,.41672781,4.0187602,Sub-Saharan Africa,7
+Syrian Arab Republic,-2.0903654,-1.562994,.35837525,6.2482181,Middle East and North Africa,5
+Togo,-.71549016,-.71097183,.050605327,4.3259978,Sub-Saharan Africa,7
+Thailand,.043706503,-.38588184,.39994442,7.3018923,East Asia and the Pacific,2
+Tajikistan,-1.3543028,-1.3310505,.21474504,10.902244,Europe and Central Asia,3
+Trinidad and Tobago,-.10863175,-.36454335,1.1252763,10.369142,Latin America and the Caribbean,4
+Tunisia,.06151969,-.10864177,.53837633,6.5797377,Middle East and North Africa,5
+Turkey,-.25018004,-.19324103,1.1374689,6.5640197,Advanced Economies,1
+"Taiwan, China",1.1374477,.96478045,1.2443433,10.713128,East Asia and the Pacific,2
+Tanzania,-.44500634,-.46308967,.07639575,5.1158261,Sub-Saharan Africa,7
+Uganda,-.29584324,-1.0423155,.067004167,5.4165716,Sub-Saharan Africa,7
+Ukraine,-.71142912,-.78394699,.37598923,11.344605,Europe and Central Asia,3
+Uruguay,.58572268,1.2927091,.56935966,8.1095028,Latin America and the Caribbean,4
+United States,1.6447611,1.3812418,1.6099749,13.423626,Advanced Economies,1
+"Venezuela, RB",-2.2552857,-1.3640571,.24925512,8.1615524,Latin America and the Caribbean,4
+Vietnam,.069474362,-.58313501,.14975896,7.4463978,East Asia and the Pacific,2
+"Yemen, Rep.",-1.7530797,-1.5927856,.13975477,2.5971262,Middle East and North Africa,5
+South Africa,-.037855595,-.021827128,.52234977,9.4301872,Sub-Saharan Africa,7
+"Congo, Dem. Rep.",-1.689818,-1.4181195,.029275279,3.6126063,Sub-Saharan Africa,7
+Zambia,-.32504594,-.54221278,.17398918,6.5986695,Sub-Saharan Africa,7
+Zimbabwe,-1.3778551,-1.2735837,.049029272,7.2474103,Sub-Saharan Africa,7
